@@ -26,11 +26,11 @@ Install Git
 -------------------
 1.	Download Github Desktop from (https://desktop.github.com/) and install it.
 2.	Go to the Terminal and type the following: 
--	`git config --global user.name "<FIRST_NAME> <LAST_NAME>"`
--	`git config --global user.email <you@example.com>`
--	`git config --global credential.helper osxkeychain`
--	`git config --global push.default matching`
--	`git config --global core.editor "atom --wait"`
+--	`git config --global user.name "<FIRST_NAME> <LAST_NAME>"`
+--	`git config --global user.email <you@example.com>`
+--	`git config --global credential.helper osxkeychain`
+--	`git config --global push.default matching`
+--	`git config --global core.editor "atom --wait"`
 
 3.	confirm that this worked by typing “git config –list” into the terminal. The same settings should be echoed back to you.
 4.	Go to Start menu under you will find “Git-Hub” >> “Git-Shell” pin that to your start menu or task-bar. As this will be your terminal.

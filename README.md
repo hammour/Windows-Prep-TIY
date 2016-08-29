@@ -40,8 +40,7 @@ Install Node.js® and NPM
 1.	Download the Windows installer from (https://nodejs.org/en/).
 2.	Run the installer (the .msi file you downloaded in the previous step.)
 3.	Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
-
-
+<img src="./Media/Node.png" width="450" />
 4.	Restart your computer. You won’t be able to run Node.js® until you restart your computer.
 5.	Test Node. To see if Node is installed, open the Windows Command Prompt, Powershell or a similar command line tool, and type `node -v`. This should print a version number, so you’ll see something like this v0.10.35.
 6.	Make sure you have npm directory in your path 
@@ -56,6 +55,7 @@ Install Ruby for windows
 1.	Download and run installation from (http://rubyinstaller.org/downloads/) remember to pick x64 if you are using a 64-bit windows. 
  
 2.	Make sure to select “Add Ruby executables to PATH” and “Associate .rb and .rbw files with this Ruby installation.”
+<img src="./Media/Ruby.png" width="450" />
 
 Install Hub
 -----------------

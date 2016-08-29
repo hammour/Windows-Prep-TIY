@@ -7,7 +7,7 @@ Installing ATOM
 
 1.	Download and install ATOM from (https://atom.io/)
 2.	On the search bar type ```SystemPropertiesAdvanced```  This will open **System Properties**.
-<img src="./media/system.png" width="450"  />
+<img src="./media/system.png"  />
 3. Go to Environment Variables >> Select “Path” and Edit>> make sure you have the path for your Atom directory. 
 <img src="./media/Enviroment.png" width="450"  />
 <img src="./media/system.png" width="450" />

@@ -6,17 +6,18 @@ Installing ATOM
 -----------------------
 
 1.	Download and install ATOM from (https://atom.io/)
-2.	On the search bar type ```SystemPropertiesAdvanced```  This will open **System Properties**. 
-
+2.	On the search bar type ```SystemPropertiesAdvanced```  This will open **System Properties**.
+<img src="./media/system.png" width="450"  />
 3. Go to Environment Variables >> Select “Path” and Edit>> make sure you have the path for your Atom directory. 
+<img src="./media/Enviroment.png" width="450"  />
+<img src="./media/system.png" width="450" />
 4.	Configure Atom:-
 a.	Open Atom from the search bar, or by typing atom on the command prompt (terminal). 
-b.	Open the Command Prompt (Terminal) by typing “cmd” in the search bar.
+b.	Open the Command Prompt (Terminal) by typing “`cmd`” in the search bar.
 c.	Run the following command:
 ```apm install linter linter-htmlhint linter-jshint linter-scss-lint atom-beautify```
 
 
-Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
 
 

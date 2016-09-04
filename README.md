@@ -15,7 +15,7 @@ Installing ATOM
 a.	Open Atom from the search bar, or by typing atom on the command prompt (terminal). 
 b.	Open the Command Prompt (Terminal) by typing “`cmd`” in the search bar.
 c.	Run the following command:
-```apm install linter linter-htmlhint linter-jshint linter-scss-lint atom-beautify```
+```apm install linter linter-htmlhint linter-jshint linter-scss-lint atom-beautify emmet```
 
 
 
